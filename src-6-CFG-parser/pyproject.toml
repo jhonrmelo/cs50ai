@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "traffic"
+version = "0.1.0"
+description = ""
+authors = ["Jonathan Melo"]
+readme = "README.md"
+packages = [{include = "poetry_demo"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+nltk = "^3.8.1"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
