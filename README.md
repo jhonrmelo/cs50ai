@@ -1,71 +1,91 @@
 # CS50's Harvard Introduction to Artificial Intelligence with Python
 
-This repository include all the exercises made during the Harvard Introduction to Artificial Intelligence with Python Course.
+This repository includes all the exercises completed during the **Harvard Introduction to Artificial Intelligence with Python** course.
 
-During the course, we pass through themes like:
+Throughout the course, we explore various themes in AI, such as:
 
-- Search
-- Knowledge
-- Uncertainty
-- Optimization
-- Learning
-- Neural Networks
-- Language
+- 🎮 **Search**
+- 🔧 **Knowledge**
+- ❓ **Uncertainty**
+- ⚙️ **Optimization**
+- 🧬 **Learning**
+- 🤖 **Neural Networks**
+- 🖌️ **Language**
 
+---
 
-## Search 
-Graph search algorithms (depth-first search, breadth-first search, and A*) and adversarial search algorithms (minimax).
-### Degrees
-Using search algorithms we try to find the distance in a relationship between persons in hollywood.
+## 🎮 Search
+Graph search algorithms (➡️ Depth-First Search, ⬆️ Breadth-First Search, 📊 A*) and adversarial search algorithms (🔁 Minimax).
 
-### Tic Tac Toe
-Using adversarial search algorithm, we create an AI to play tic-tac-toe.
+### 🏋️‍♂️ Degrees
+Using search algorithms to find the relationship distance between people in Hollywood.
 
-## Knowledge
-Using logical knowledge to resolve problems with representations (propositional and first-order logic), knowledge agents, model checking, inferences and etc.
+### ◯ Tic Tac Toe
+Creating an AI to play tic-tac-toe using adversarial search algorithms.
 
-### Knights
-Using propositional logic and knowledge to validate sentences
+---
 
-### Mineswepper
-Using knowledge base and knowledge base agents to resolve problems.
+## 🔧 Knowledge
+Leveraging logical knowledge to solve problems through representations (propositional and first-order logic), knowledge agents, model checking, and inferences.
 
-## Uncertainty
-Using probability to resolve problems where you dont have certanty, prediction using Markov and Hidden Markov models.
+### 🧩 Knights
+Using propositional logic to validate sentences.
 
-### Heredity
-Using probability to calculate the percentage to a person have an trait, based on the parents.
+### 🔵 Minesweeper
+Applying knowledge bases and agents to solve Minesweeper problems.
 
-### Pagerank
-Using probability to calculate pagerank probability based on page mentions.
+---
 
-## Optimization
-Local search algorithms (hill climbing and simulated annealing), linear programming algorithms (simplex, interior point), and constraint satisfaction algorithms (AC-3, backtracking search, maintaining arc consistency).
+## ❓ Uncertainty
+Using probability to handle situations with incomplete information, including prediction through Markov and Hidden Markov models.
 
-### Crossword
-Solve crossword problems using arc consistency and backtrack.
+### 👶 Heredity
+Calculating the likelihood of a person having a specific trait based on parental information.
 
-## Learning
-Building AI Agents that can learning and act, using Rewards and Calculations in the agents.
+### 🔗 Pagerank
+Using probability to calculate PageRank based on page mentions and links.
 
-### Nim
-An AI Agent that learns to play the game Nim.
+---
 
-### Shopping
-An AI Agent that can predict shopping purchases based on customers behavior.
+## ⚙️ Optimization
+Exploring optimization through:
+- Local search algorithms (hill climbing and simulated annealing).
+- Linear programming (simplex, interior point).
+- Constraint satisfaction (AC-3, backtracking search, maintaining arc consistency).
 
-## Neural Networks
-Training and using neural networks using google TensorFlow library
+### ✉ Crossword
+Solving crossword puzzles using arc consistency and backtracking algorithms.
 
-### Traffic
-An AI Agent that recognizes Traffic Plates, using Neural networks with TensorFlow and OpenCV
+---
 
-## Language
-Training AIs to undestanding Language patterns, using Context Free Grammar with NLTK and Neural Networks with the attention pattern.
+## 🧬 Learning
+Building AI agents that can learn and make decisions using rewards and calculations.
 
-### CFG Parser
-Using NLTK to understand the pattern and concepts from a grammar.
+### ♟ Nim
+Developing an AI agent that learns to play the game of Nim.
 
-### Attention
-Predicting the masked word of an phrase using Neural networks with the Attention pattern (Used in Large Language Models)
+### 🛍️ Shopping
+Creating an AI agent that predicts shopping purchases based on customer behavior.
 
+---
+
+## 🤖 Neural Networks
+Training and applying neural networks using the Google TensorFlow library.
+
+### 🚗 Traffic
+Recognizing traffic plates using neural networks with TensorFlow and OpenCV.
+
+---
+
+## 🖌️ Language
+Training AI to understand language patterns using Context-Free Grammar (CFG) with NLTK and neural networks with the attention mechanism.
+
+### 🔗 CFG Parser
+Using NLTK to understand grammar patterns and concepts.
+
+### 🎨 Attention
+Predicting masked words in phrases using neural networks with attention mechanisms (as used in large language models).
+
+---
+
+Feel free to explore the repository and contribute! 🚀
