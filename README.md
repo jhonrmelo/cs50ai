@@ -46,7 +46,26 @@ Local search algorithms (hill climbing and simulated annealing), linear programm
 Solve crossword problems using arc consistency and backtrack.
 
 ## Learning
+Building AI Agents that can learning and act, using Rewards and Calculations in the agents.
 
+### Nim
+An AI Agent that learns to play the game Nim.
 
+### Shopping
+An AI Agent that can predict shopping purchases based on customers behavior.
 
-Repository with the exercises of harvard CS50's Introduction to Artificial Intelligence with Python Course
+## Neural Networks
+Training and using neural networks using google TensorFlow library
+
+### Traffic
+An AI Agent that recognizes Traffic Plates, using Neural networks with TensorFlow and OpenCV
+
+## Language
+Training AIs to undestanding Language patterns, using Context Free Grammar with NLTK and Neural Networks with the attention pattern.
+
+### CFG Parser
+Using NLTK to understand the pattern and concepts from a grammar.
+
+### Attention
+Predicting the masked word of an phrase using Neural networks with the Attention pattern (Used in Large Language Models)
+
